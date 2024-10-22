@@ -1,22 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Shelke
-======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<h1 align="center">Hi 👋, I'm Rohan Shelke</h1>
 
+<h3 align="center">A Passionate Full stack developer from India. I am working as Frontend Developer with Ahen Consumer Services.
+</h3>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+</br></br>
 <img align="right" alt="coding" width="300" height="200" src="https://media.giphy.com/media/NiwZ9THiCOodYySoSh/giphy.gif">
 
 
-- 🔭 I’m currently working on a MERN Project and DSA
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Travel
-- 📫 How to reach me: rohan_shelke_it@moderncoe.edu.in
-- 📄 Know about my experiences [https://drive.google.com/file/d/16hzK0f7OdWtCEZkMJtGKgYRHxNB1wWse/view?usp=sharing](https://drive.google.com/file/d/16hzK0f7OdWtCEZkMJtGKgYRHxNB1wWse/view?usp=sharing)
-- ⚡ Fun fact: I'm currently studying B. E Information Technology
-
+- 👩‍🎓 I Pursuing my B.E. degree in IT at **PES Modern College of Engineering Pune**.
+- 🔭 I’m looking to contribute to **Open Source Projects**
+- 🌱 I’m currently working on my Web Development Projects.
+- 💬 I’m currently exploring **C++,React,Next.js and Python**
+- 📫 How to reach me:<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=shelkerohan7309@gmail.com" style="text-decoration: none;">Email</a>
 
 <a href="https://www.github.com/rohanrs09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rohanrs09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanrs09&label=Profile%20views&color=0e75b6&style=flat" alt="rohanrs09" /> </p>
+
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ### 💻 Tech Stack:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
