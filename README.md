@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Shelke</h1>
 
-<h3 align="center">💻 Full Stack Developer | Cloud Enthusiast | Azure Certified</h3>
+<h3 align="center">💻 Full Stack Developer  |  Azure Certified</h3>
 
 
 <!-- Animated Line -->
