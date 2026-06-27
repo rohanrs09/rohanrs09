@@ -17,13 +17,19 @@
 
 <div align="left">
 
-- 🎓 Completed **B.E. in Information Technology** at *PES Modern College of Engineering, Pune* (CGPA: 8.52/10)  
-- 💼 Currently working as a **Programmer Analyst Trainee** at *Cognizant Technology Solutions*, on a Microsoft client engagement — building ETL pipelines with **Azure Data Factory**, **Microsoft Fabric**, and **PySpark**  
-- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-- 📊 **Microsoft Certified: DP-700 — Microsoft Fabric Data Engineer Associate**  
-- 🌱 Exploring **Data Engineering, Microsoft Fabric, and Medallion Architecture**, alongside Full Stack Development and .NET Core  
-- 🤖 Also building AI-powered products — from an emotion-aware **AI Voice Tutor** to fine-tuning open-source LLMs  
-- 💬 Ask me about **Azure Data Factory, Microsoft Fabric, PySpark, React, Next.js, .NET, C++, or Cloud**  
+🔹 **Data Engineer** passionate about building scalable data platforms using **Microsoft Fabric, Azure Data Factory, PySpark, and SQL**.
+
+☁️ **Microsoft Certified:** Azure Fundamentals (**AZ-900**) & Microsoft Fabric Data Engineer Associate (**DP-700**).
+
+📊 Interested in **Data Engineering, ETL/ELT Pipelines, Data Warehousing, Lakehouse Architecture,** and **Medallion Architecture**.
+
+🤖 Building AI-powered applications while exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG),** and intelligent data solutions.
+
+💻 Strong foundation in **Full-Stack Development** with **React, Next.js, ASP.NET Core,** and **REST APIs**.
+
+🚀 Passionate about continuous learning, solving real-world data challenges, and building impactful products.
+
+🤝 Open to connecting with professionals in **Data Engineering, Cloud,** and **Artificial Intelligence**.
 - 📫 Reach me at: [shelkerohan7309@gmail.com](mailto:shelkerohan7309@gmail.com)
 
 </div>
